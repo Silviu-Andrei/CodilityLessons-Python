@@ -31,3 +31,10 @@ Solutions to Codility Lessons (all of them are done by me):
 **MinAvgTwoSlice** - 50% score solution. Link at Codility: https://app.codility.com/demo/results/trainingFDU6P2-S6M/
 
 **PassingCars** - 50% score solution. Link at Codility: https://app.codility.com/demo/results/training5MJCUM-XYZ/
+## SORTING
+
+**Distinct** - 100% score solution. Link at Codility: https://app.codility.com/demo/results/trainingT3RMZV-JP8/
+
+**MaxProductOfThree** - 44% score solution. Link at Codility: https://app.codility.com/demo/results/trainingMY6PXG-7C6/
+
+**Triangle** - 75% score solution. Link at Codility: https://app.codility.com/demo/results/trainingA2VU28-NAQ/
