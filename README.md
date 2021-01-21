@@ -13,14 +13,12 @@ Solutions to Codility Lessons (all of them are done by me):
 
 **PermMissingElem** - 100% score solution. Link at Codility: https://app.codility.com/demo/results/training6YMNHK-NDA/
 
-**TapeEquilibrium** - 69% score solution. Link at Codility: https://app.codility.com/demo/results/trainingT8AM3V-98U/
+**TapeEquilibrium** - 53% score solution. Link at Codility: https://app.codility.com/demo/results/trainingVUT2JV-77Q/
 ## COUNTING ELEMENTS
 
-**FrogRiverOne** - 81% score solution. Link at Codility: https://app.codility.com/demo/results/trainingDH3H28-TGP/
+**MaxCounters** - 44% score solution. Link at Codility: https://app.codility.com/demo/results/trainingMBCVV5-JVZ/
 
-**MaxCounters** - 77% score solution. Link at Codility:https://app.codility.com/demo/results/training5336JR-DRV/
-
-**MissingInteger** - 66% score solution. Link at Codility: https://app.codility.com/demo/results/training2GCGG4-5NU/
+**MissingInteger** - 44% score solution. Link at Codility: https://app.codility.com/demo/results/trainingBPA8BD-8KE/
 
 **PermCheck** - 83% score solution. Link at Codility: https://app.codility.com/demo/results/trainingB3GE7G-BR9/
 ## PREFIX SUMS
