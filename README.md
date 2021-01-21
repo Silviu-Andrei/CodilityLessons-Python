@@ -54,7 +54,6 @@ Solutions to Codility Lessons (all of them are done by me):
 ## EUCLIDEAN ALGORITHM
 
 **CommonPrimeDivisors** - 46% score solution. Link at Codility: https://app.codility.com/demo/results/trainingH653TK-K27/
-
 ## CATEPILLAR METHOD
 
 **AbsDistinct** - 100% score solution. Link at Codility: https://app.codility.com/demo/results/trainingYP5K94-ZEY/
@@ -62,4 +61,14 @@ Solutions to Codility Lessons (all of them are done by me):
 **CountTriangles** - 63% score solution. Link at Codility: https://app.codility.com/demo/results/training2PUHUU-E59/
 
 **MinAbsSumOfTwo** - 45% score solution. Link at Codility: https://app.codility.com/demo/results/trainingJ7ZC7U-NUS/
+## Tasks from Indeed Prime 2015 challenge
 
+**LongestPassword** - 100% score solution. Link at Codility: https://app.codility.com/demo/results/trainingZVPXD3-XKE/
+## Tasks from Indeed Prime 2016 College Coders challenge
+
+**TennisTournament** - 100% score solution. Link at Codility: https://app.codility.com/demo/results/training3A3DWK-Z7S/
+## FUTURE TRAINING
+
+**ArrayInversionCount** - 63% score solution. Link at Codility: https://app.codility.com/demo/results/training3DMTHQ-FJP/
+
+**StrSymmetryPoint** - 57% score solution. Link at Codility: https://app.codility.com/demo/results/trainingDT34ZU-JDX/
