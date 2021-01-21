@@ -38,3 +38,11 @@ Solutions to Codility Lessons (all of them are done by me):
 **MaxProductOfThree** - 44% score solution. Link at Codility: https://app.codility.com/demo/results/trainingMY6PXG-7C6/
 
 **Triangle** - 75% score solution. Link at Codility: https://app.codility.com/demo/results/trainingA2VU28-NAQ/
+## LEADER
+
+**Dominator** - 83% score solution. Link at Codility: https://app.codility.com/demo/results/trainingWEKY7U-ZBV/
+## MAXIMUM SLICE PROBLEM
+
+**MaxProfit** - 66% score solution. Link at Codility: https://app.codility.com/demo/results/trainingAMJ9AG-BKW/
+
+**MaxSliceSum** - 69% score solution. Link at Codility: https://app.codility.com/demo/results/trainingU329XX-VQC/
