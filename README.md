@@ -20,11 +20,13 @@ Solutions to Codility Lessons (all of them are done by me):
 
 **MissingInteger** - 44% score solution. Link at Codility: https://app.codility.com/demo/results/trainingBPA8BD-8KE/
 
-**PermCheck** - 83% score solution. Link at Codility: https://app.codility.com/demo/results/trainingB3GE7G-BR9/
+**PermCheck** - 91% score solution. Link at Codility: https://app.codility.com/demo/results/trainingTTY5GK-WHA/
 ## PREFIX SUMS
 
-**CountDiv** - 50% score solution. Link at Codility: https://app.codility.com/demo/results/trainingH94UP9-ENH/
+**CountDiv** - 50% score solution. Link at Codility: https://app.codility.com/demo/results/trainingP8UTSY-WQ2/
 
-**GenomicRangeQuery** - 62% score solution. Link at Codility: https://app.codility.com/demo/results/trainingUSU9NP-JQB/
+**GenomicRangeQuery** - 62% score solution. Link at Codility: https://app.codility.com/demo/results/trainingCKPF3R-H8B/
 
-**PassingCars** - 60% score solution. Link at Codility: https://app.codility.com/demo/results/trainingRMQWGH-XKZ/
+**MinAvgTwoSlice** - 50% score solution. Link at Codility: https://app.codility.com/demo/results/trainingFDU6P2-S6M/
+
+**PassingCars** - 50% score solution. Link at Codility: https://app.codility.com/demo/results/training5MJCUM-XYZ/
