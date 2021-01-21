@@ -9,9 +9,9 @@ Solutions to Codility Lessons (all of them are done by me):
 **OddOccurrencesInArray** - 100% score solution. Link at Codility: :https://app.codility.com/demo/results/training8DAWQJ-PS9/
 ## TIME COMPLEXITY
 
-**FrogJmp** - 100% score solution. Link at Codility: https://app.codility.com/demo/results/training2CFSG4-87U/
+**FrogJmp** - 100% score solution. Link at Codility: https://app.codility.com/demo/results/trainingGSSS99-3VT/
 
-**PermMissingElem** - 100% score solution. Link at Codility: https://app.codility.com/demo/results/trainingF6QTA4-3GM/
+**PermMissingElem** - 100% score solution. Link at Codility: https://app.codility.com/demo/results/training6YMNHK-NDA/
 
 **TapeEquilibrium** - 69% score solution. Link at Codility: https://app.codility.com/demo/results/trainingT8AM3V-98U/
 ## COUNTING ELEMENTS
