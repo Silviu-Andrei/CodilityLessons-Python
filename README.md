@@ -7,7 +7,7 @@ Solutions to Codility Lessons (all of them are done by me):
 
 **CyclicRotation** - 100% score solution. Link at Codility: https://app.codility.com/demo/results/trainingEJ2Q8F-9GR/
 
-**OddOccurrencesInArray** - 100% score solution. Link at Codility: :https://app.codility.com/demo/results/training8DAWQJ-PS9/
+**OddOccurrencesInArray** - 100% score solution. Link at Codility: https://app.codility.com/demo/results/training8DAWQJ-PS9/
 ## TIME COMPLEXITY
 
 **FrogJmp** - 100% score solution. Link at Codility: https://app.codility.com/demo/results/trainingGSSS99-3VT/
