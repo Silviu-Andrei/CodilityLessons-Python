@@ -46,3 +46,20 @@ Solutions to Codility Lessons (all of them are done by me):
 **MaxProfit** - 66% score solution. Link at Codility: https://app.codility.com/demo/results/trainingAMJ9AG-BKW/
 
 **MaxSliceSum** - 69% score solution. Link at Codility: https://app.codility.com/demo/results/trainingU329XX-VQC/
+## PRIME AND COMPOSITE NUMBERS
+
+**CountFactors** - 57% score solution. Link at Codility: https://app.codility.com/demo/results/trainingP4RC8J-X3H/
+
+**MinPerimeterRectangle** - 50% score solution. Link at Codility: https://app.codility.com/demo/results/training4R2A4S-C3Q/
+## EUCLIDEAN ALGORITHM
+
+**CommonPrimeDivisors** - 46% score solution. Link at Codility: https://app.codility.com/demo/results/trainingH653TK-K27/
+
+## CATEPILLAR METHOD
+
+**AbsDistinct** - 100% score solution. Link at Codility: https://app.codility.com/demo/results/trainingYP5K94-ZEY/
+
+**CountTriangles** - 63% score solution. Link at Codility: https://app.codility.com/demo/results/training2PUHUU-E59/
+
+**MinAbsSumOfTwo** - 45% score solution. Link at Codility: https://app.codility.com/demo/results/trainingJ7ZC7U-NUS/
+
